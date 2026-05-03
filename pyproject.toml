@@ -1,0 +1,9 @@
+[project]
+name = "adk project"
+version = "0.1.0"
+description = "google adk teaching"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "litellm>=1.83.14",
+]
